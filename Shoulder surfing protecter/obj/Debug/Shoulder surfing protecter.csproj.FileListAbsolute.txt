@@ -1,0 +1,19 @@
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\bin\Debug\Shoulder surfing protecter.exe.config
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Shoulder surfing protecter.csprojResolveAssemblyReference.cache
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Createwindow.baml
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\MainWindow.baml
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Signup.baml
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Createwindow.g.cs
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\MainWindow.g.cs
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Signup.g.cs
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\App.g.cs
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Shoulder surfing protecter_MarkupCompile.cache
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Shoulder surfing protecter.g.resources
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Shoulder_surfing_protecter.Properties.Resources.resources
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Shoulder surfing protecter.csproj.GenerateResource.Cache
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\bin\Debug\Shoulder surfing protecter.exe
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\bin\Debug\Shoulder surfing protecter.pdb
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Shoulder surfing protecter.exe
+c:\users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Shoulder surfing protecter.pdb
+C:\Users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Signwindow.baml
+C:\Users\tanawatdee\documents\visual studio 2013\Projects\Shoulder surfing protecter\Shoulder surfing protecter\obj\Debug\Signwindow.g.cs
